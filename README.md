@@ -41,7 +41,7 @@ heading size practice
     <h4>heading 4</h4>
     <h5>heading 5</h5>
     <h6>heading 6</h6>
-    </div>
+      </div>
     </div>
   </body>
 </html>
